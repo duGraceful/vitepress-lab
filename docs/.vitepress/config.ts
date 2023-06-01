@@ -8,7 +8,7 @@ export default defineConfig({
   // 根路径
   base: '/vitepress-mondaylab/',
   themeConfig: {
-    logo: "../public/avatar.png",
+    logo: "avatar.png",
     // https://vitepress.dev/reference/default-theme-config
     nav,
     socialLinks: [
