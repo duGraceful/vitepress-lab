@@ -12,7 +12,7 @@ hero:
   tagline: /人间清醒/
   image:
       # 首页右边的图片
-      src: /avatar.jpeg
+      src: /avatar.png
       # 图片的描述
       alt: avatar
   actions:
