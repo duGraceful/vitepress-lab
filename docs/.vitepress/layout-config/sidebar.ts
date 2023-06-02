@@ -10,7 +10,7 @@ export const sidebar: DefaultTheme.Sidebar = {
       items: [
         {
           text: '深拷贝和浅拷贝',
-          link: '/column/Algorithm/001_Stack'
+          link: '/column/Algorithm/stack'
         }
       ]
     },
@@ -20,7 +20,7 @@ export const sidebar: DefaultTheme.Sidebar = {
       items: [
         {
           text: '树-深/广度优先遍历',
-          link: '/column/Algorithm/004_Tree'
+          link: '/column/Algorithm/tree'
         }
       ]
     }
