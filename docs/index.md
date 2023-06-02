@@ -5,7 +5,7 @@ layout: home
 home: true
 
 # https://vitepress.dev/reference/default-theme-home-page
-title: dudu 的博客
+title: 嘟嘟的博客
 titleTemplate: Hi，终于等到你
 editLink: true
 lastUpdated: true
