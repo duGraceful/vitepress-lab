@@ -11,6 +11,10 @@ export const sidebar: DefaultTheme.Sidebar = {
         {
           text: '深拷贝和浅拷贝',
           link: '/column/Algorithm/stack'
+        },
+        {
+          text: '快速建站',
+          link: '/column/Algorithm/site' // 对应docs/column/Algorithm下的idnex.md文件
         }
       ]
     },
