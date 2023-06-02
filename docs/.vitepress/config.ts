@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import { nav, sidebar } from './relaConf';
+import { nav, sidebar } from './layout-config';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({

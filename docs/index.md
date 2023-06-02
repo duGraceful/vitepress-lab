@@ -5,7 +5,7 @@ layout: home
 home: true
 
 # https://vitepress.dev/reference/default-theme-home-page
-title: 嘟嘟的博客
+title: 杜杜的博客
 titleTemplate: Hi，终于等到你
 editLink: true
 lastUpdated: true
@@ -34,8 +34,15 @@ features:
     link: /column/views/guide
   - icon: 🌟
     title: 你猜猜呀
-    details: 你猜猜呀.
+    details: 你猜猜呀。
   - icon: 🧩
     title: 斜杆青年
     details: 斜杆青年。
+---
+
+<script setup>
+  import home from '/.vitepress/components/home.vue';
+</script>
+
+<home />
 
