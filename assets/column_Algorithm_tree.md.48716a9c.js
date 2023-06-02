@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.2c059d95.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"column/Algorithm/tree.md","filePath":"column/Algorithm/tree.md"}'),o={name:"column/Algorithm/tree.md"};function a(c,n,s,m,i,l){return t(),r("div")}const d=e(o,[["render",a]]);export{_ as __pageData,d as default};

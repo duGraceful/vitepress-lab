@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.2c059d95.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"column/Algorithm/stack.md","filePath":"column/Algorithm/stack.md"}'),o={name:"column/Algorithm/stack.md"};function c(r,s,n,m,i,l){return e(),a("div")}const d=t(o,[["render",c]]);export{_ as __pageData,d as default};
