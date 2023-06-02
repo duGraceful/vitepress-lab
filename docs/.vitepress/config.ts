@@ -6,7 +6,7 @@ export default defineConfig({
 	title: "随心记",
 	description: "A VitePress Site",
 	// 根路径
-	base: '/vitepress-mondaylab/',
+	base: '/vitepress-lab/',
 	themeConfig: {
 		logo: "avatar.png",
 		// https://vitepress.dev/reference/default-theme-config
