@@ -5,7 +5,8 @@ export const sidebar: DefaultTheme.Sidebar = {
   '/column/Algorithm/': [
      // 第一部分
     {
-      text: '栈和队列',
+      text: '堆栈模型',
+      link: '/column/Algorithm/',
       items: [
         {
           text: '深拷贝和浅拷贝',

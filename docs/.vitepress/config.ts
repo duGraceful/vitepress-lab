@@ -3,7 +3,7 @@ import { nav, sidebar } from './relaConf';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-	title: "随心记",
+	title: "杜杜随心记",
 	description: "A VitePress Site",
 	// 根路径
 	base: '/vitepress-lab/',
