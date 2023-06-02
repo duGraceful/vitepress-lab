@@ -14,7 +14,11 @@ export const sidebar: DefaultTheme.Sidebar = {
         },
         {
           text: '快速建站',
-          link: '/column/Algorithm/site' // 对应docs/column/Algorithm下的idnex.md文件
+          link: '/column/Algorithm/site'
+        },
+        {
+          text: '我是测试',
+          link: '/column/Algorithm/test'
         }
       ]
     },
